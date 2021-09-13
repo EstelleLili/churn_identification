@@ -35,7 +35,7 @@ MonthlyCharge
 
 
 Final indicators for churn :
-•	ContractRenewal
-•	CustServCalls
-•	DayMins
-•	OverageFee
+-	ContractRenewal
+-	CustServCalls
+-	DayMins
+-	OverageFee
